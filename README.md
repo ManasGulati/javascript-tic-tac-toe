@@ -164,10 +164,10 @@ The project demonstrates that interactive browser applications do not require a 
 
 ## Author and Contact
 
-**Developed by:** Manas Gulati 
-**GitHub:** [github.com/ManasGulati](https://github.com/ManasGulati)  
+**Developed by:** Manas Gulati  
 **Email:** manasgulati222@gmail.com  
 **LinkedIn:** [linkedin.com/in/manasgulatiryu](https://linkedin.com/in/manasgulatiryu)
+**GitHub:** [github.com/ManasGulati](https://github.com/ManasGulati) 
 
 Made with vanilla HTML, CSS, and JavaScript.
 
