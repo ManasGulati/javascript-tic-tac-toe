@@ -1,0 +1,35 @@
+# ──────────────────────────────────────────────────────
+#  Tic Tac Toe — Dependencies
+# ──────────────────────────────────────────────────────
+#
+#  This project has ZERO external runtime dependencies.
+#  It is built entirely with native browser technologies:
+#
+#    HTML5    — markup and structure
+#    CSS3     — styling, layout (CSS Grid), glassmorphism
+#    ES6 JS   — game logic, DOM manipulation, event handling
+#
+#  No package manager (npm / yarn / pip) is required.
+#  No build step or bundler is needed.
+#
+# ──────────────────────────────────────────────────────
+#  Browser Compatibility
+# ──────────────────────────────────────────────────────
+#
+#  Tested and working on:
+#    Chrome   90+
+#    Firefox  88+
+#    Edge     90+
+#    Safari   14+
+#
+# ──────────────────────────────────────────────────────
+#  Font (optional CDN — loaded at runtime if connected)
+# ──────────────────────────────────────────────────────
+#
+#  Google Fonts — Poppins (fallback: sans-serif)
+#  URL: https://fonts.googleapis.com/css2?family=Poppins
+#
+#  The game is fully functional even without this font.
+#  The CSS fallback stack handles offline use gracefully.
+#
+# ──────────────────────────────────────────────────────
