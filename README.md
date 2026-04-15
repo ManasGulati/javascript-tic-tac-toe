@@ -147,7 +147,7 @@ npx http-server src/ -p 3000
 
 The game works correctly across all tested browsers (Chrome 90+, Firefox 88+, Edge 90+, Safari 14+). Win and draw detection are reliable across all 8 possible line combinations, and the board resets cleanly on every new game without a page reload.
 
-The project demonstrates that interactive browser applications do not require a framework. Keeping the stack simple — one HTML file, one stylesheet, one script, produces code that is easy to read, easy to debug, and easy to extend.
+The project demonstrates that interactive browser applications do not require a framework. Keeping the stack simple, one HTML file, one stylesheet, one script, produces code that is easy to read, easy to debug, and easy to extend.
 
 ---
 
